@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run Podcast Generator",
+			"command": "C:/Users/jassi/OneDrive/Documents/CREW AI 2/.venv/Scripts/python.exe",
+			"args": [
+				"main.py"
+			],
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
